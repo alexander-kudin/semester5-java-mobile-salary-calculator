@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignment1</string>
+    <string name="app_label">Assignment 1</string>
+    <string name="number_of_hours">Number of hours</string>
+    <string name="hourly_rate">Hourly rate</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_pay">Total Pay:</string>
+    <string name="tax">Tax:</string>
+    <string name="aleksandr_kudin_101258693">Aleksandr Kudin - 101258693</string>
+</resources>
